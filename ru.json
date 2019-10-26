@@ -1,5 +1,5 @@
 {
-	"ADMIN": "ADMIN",
+	"ADMIN": "АДМИН",
 	"AUTH_REGISTER_WELCOME": "Welcome %%, you have just registered to %%.",
 	"AUTH_LOGIN_WELCOME_BACK": "Welcome back %%%%%%, you have successfully logged in.",
 	"BUSINESS_STOCK_PURCHASE": "You have purchased %% %% for %%.",
@@ -18,7 +18,7 @@
 	"CRIME_COMMITED": "%%Crime committed | %%.",
 	"DEBUG": "DEBUG",
 	"ERROR": "ERROR",
-	"ERROR_INVALID_USERNAME_ID": "Invalid Username / ID",
+	"ERROR_INVALID_USERNAME_ID": "Неверное имя пользователя / ИД",
 	"ERROR_NOT_ENOUGH_MONEY_OPERATION": "You don't have enough money for this operation",
 	"ERROR_TOTAL_LEVEL_DEALERSHIP": "You need a total level of %% in order to access this dealership",
 	"LEO_GARAGE_ITEM_SELECT": "The government has granted the spawn of your new %%. Look around for your new LEO vehicle.",
@@ -47,7 +47,7 @@
 	"VEHICLE_PURCHASED_SHARD_MESSAGE": "You bought a %%",
 	"VEHICLE_PURCHASE_TUNING_HINT": "Do you have a fancy for speed? Or maybe looks? Take it to a mod shop to get it tricked out!",
 	"WARNING": "WARNING",
-	"WALKING_STYLE_SET_MESSAGE": "Walking style set to %%.",
+	"WALKING_STYLE_SET_MESSAGE": "Установлен стиль походки %%.",
 	"WANTED_LEVEL_DECREASED": "Wanted level decreased. New level: %%.",
 	"WORLD_ITEM_PICKUP": "You have picked up %% %%.",
 	"WORLD_ITEM_DROP": "You have dropped %% %%."
